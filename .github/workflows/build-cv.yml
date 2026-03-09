@@ -1,0 +1,87 @@
+name: Build CV PDF
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.3'
+
+      - uses: r-lib/actions/setup-tinytex@v2
+
+      - name: Install R packages
+        run: |
+          install.packages(c("rmarkdown", "remotes"), repos = "https://cloud.r-project.org")
+          remotes::install_github("svmiller/stevetemplates")
+        shell: Rscript {0}
+
+      - name: Install LaTeX packages
+        run: |
+          tinytex::tlmgr_install(c(
+            "fontawesome", "mathpazo", "palatino",
+            "geometry", "hyperref", "xcolor",
+            "booktabs", "longtable", "array",
+            "multirow", "wrapfig", "float",
+            "colortbl", "pdflscape", "tabu",
+            "threeparttable", "threeparttablex",
+            "makecell", "xstring", "fancyhdr",
+            "lastpage", "textpos", "titling",
+            "preprint", "enumitem", "soul",
+            "fontawesome5"
+          ))
+        shell: Rscript {0}
+
+      - name: Render CV
+        run: |
+          rmarkdown::render("cv.Rmd", output_file = "cv.pdf")
+        shell: Rscript {0}
+
+      - name: Prepare pages
+        run: |
+          mkdir -p _site
+          cp cv.pdf _site/cv.pdf
+          cat > _site/index.html << 'HTMLEOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta http-equiv="refresh" content="0; url=cv.pdf">
+            <title>Stephen Kinsella - CV</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="cv.pdf">CV (PDF)</a>...</p>
+          </body>
+          </html>
+          HTMLEOF
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

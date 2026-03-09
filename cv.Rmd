@@ -1,0 +1,343 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+title: "Curriculum Vitae"
+author: Stephen Kinsella
+jobtitle: "Professor of Economics"
+address: "Department of Economics, University of Limerick"
+fontawesome: yes
+email: stephen.kinsella@ul.ie
+phone: "+35361233611"
+web: stephenkinsella.net
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+keywords: R Markdown, academic CV, template
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+# Education
+-   Ph.D, New School for Social Research, New York, 2011.
+-   Ph.D, National University of Ireland, Galway, 2007.
+-   MA & M.Phil, New School for Social Research, New York, 2007.
+-   M.Econ.Sc, National University of Ireland, Galway, 2003.
+-   BA (Mod), Trinity College, Dublin, 2002.
+# Employment Experience
+-   Economic Advisor to An Taoiseach & An Tánaiste, 07/2024 -
+-   University of Limerick, Full Professor of Economics, 01/2022-
+    -   Professor, 06/2018 - 12/2021,
+    -   Associate Professor A, 06/2013 - 05/2018,
+    -   Associate Professor B, 06/2009 - 05/2013,
+    -   Assistant Professor 08/2006 - 05/2009.
+-   University of Melbourne, Senior Fellow, 09/2018 - 12/2021.
+-   Teaching Assistant, New School for Social Research, 08/2005 - 08/2006.
+-   Teaching Assistant, National University of Ireland, Galway, 01/2003 - 12/2004.
+-   Research Assistant, National University of Ireland, Galway, 08/2002 - 08/2003.
+# Academic Leadership
+-   University of Limerick, Head of Department, Economics, 01/2022 - present.
+-   University of Limerick, Co-Director, Immersive Software Engineering, 01/2019- present.
+# Visiting Positions/Sabbaticals
+-   Melbourne School of Government, University of Melbourne, Australia, Visiting Research Fellow, 09/2017-10/2018.
+-   Université Paris 13, Visiting (full) Professor of Economics, 2014/2015.
+# Honours and Awards
+-   Smurfit Business Journalist of the Year 2018: Winner as Economic Commentator and Business Analyst.
+-   Miriam Hederman O'Brien Prize for Fiscal Policy, 2017.
+-   Smurfit Business Journalist of the Year 2016: Winner as Economic Commentator and Business Analyst.
+-   UL Excellence in Research Award, 2015. 5,000 euros.
+-   [JCI](http://www.irishexaminer.com/ireland/young-guns-recognised-for-their-achievements-157692.html) Outstanding Young Person of the Year Award for academic achievement,
+    2011.
+-   UL excellence in teaching award, shortlisted, 2010.
+-   Shannon Consortium regional excellence in teaching award, shortlisted, 2010.
+-   [Herbert Simon Lectures](http://www.aiecon.org/herbertsimon/series19/schedule.htm), National Chengchi University, Taiwan, March 2010.
+-   Honourary member of the Philosophical society, Trinity College Dublin, 2010-
+-   University Fellowship, The New School for Social Research, 01/2005-12/2007.
+-   John F. Kennedy Scholar, 01/2005 - 06/2006.
+-   Digital Enterprise Research Institute Doctoral Fellowship, 11/2003-06/2006.
+-   Tuition Scholarship, National University of Ireland, Galway, 01/2002-08/2003.
+# Publications
+-   Please see <http://stephenkinsella.net/research> for downloadable copies of working papers and links to [Orcid](https://orcid.org/0000-0002-7943-4797) and [PURE](https://pure.ul.ie/en/persons/stephen-kinsella) and [RePeC](http://ideas.repec.org/e/pki169.html) pages. Links to all published papers are provided in the titles of the papers listed below.
+## Working Papers/Papers Under Review
+1.  McMahon, M., Calligaris, S., Doyle, E., & Kinsella, S. (2021) [Scale, market power and competition in a digital world: Is bigger better?](https://doi.org/10.1787/c1cff861-en) OECD Working Paper No. 2021/01.
+2.  Stephen Burgess, Oliver Burrows, Antoine Godin, Stephen Kinsella and Stephen Millard (2016) [A Dynamic Model of Financial Balances for the United Kingdom](https://ssrn.com/abstract=2835386), Bank of England Working Paper No. 614.
+## Articles in Journals
+1.  McMahon, M., Denny, E., Kinsella, S. (2026), [Intangible Capital, Digitalisation and Scale: Evidence and Interactions in Firm-level Production and Competition Dynamics](https://doi.org/10.1016/j.ribaf.2026.103326), *Research in International Business and Finance*, 103326.
+2.  McMahon, M., Denny, E., Kinsella, S. (2025), [Intangible Income Shifting: The impact of digitalisation on falling corporate tax rates](https://doi.org/10.1007/s10797-025-09883-y), *International Tax and Public Finance*, 1-31.
+3.  Landman, M., Ojanperä, S., Kinsella, S., & O'Clery, N. (2023). [The role of relatedness and strategic linkages between domestic and MNE sectors in regional branching and resilience](https://doi.org/10.1007/s10961-022-09930-4) .*Journal of Technology Transfer*. Vol 48, pages 515--559.
+4.  Farrell,C.A., Coleman, L, Norton, D., Kelly‐Quinn,M, Kinsella, S., Obst, C., Eigenraam, M., O'Donoghue, C., Sheehy, I., Smith, J., Stout, J. (2022) [Applying ecosystem accounting to develop a risk register for peatlands and inform restoration targets at catchment scale: a case study from the European region.](https://doi.org/10.1111/rec.13632) *Restoration Ecology*, e13632.
+5.  O'Clery, N. and Kinsella, S. (2022) [Modular structure in labour networks reveals skill basins](https://doi.org/10.1016/j.respol.2022.104486), *Research Policy*. Volume 51, Issue 5, 104486.
+6.  Farrell, C., Coleman, L., Norton, D., Kelly-Quinn, M., Obst, C., Eigenraam, M., O'Donoghue, C., Kinsella, S., Smith, F., Sheehy, I. and Stout, J., 2021. [Developing peatland ecosystem accounts to guide targets for restoration](https://oneecosystem.pensoft.net/article/76838/download/pdf/). *One Ecosystem*, 6, p.e76838.
+7.  Farrell CA, Coleman L, Norton D, Kelly-Quinn M, Obst C, Eigenraam M, O'Donoghue C, Kinsella S, Smith F, Sheehy I, Stout JC (2021) [Developing peatland ecosystem accounts to guide targets for restoration](https://doi.org/10.3897/oneeco.6.e76838). *One Ecosystem* 6: e76838.
+8.  Nichol, S., Cameron, S., Håkanson, C., Kinsella, S. and Smidt, J., (2021). [OECD Review of the Irish Fiscal Advisory Council](https://doi.org/10.1787/16812336). *OECD Journal on Budgeting*, 21(3).
+9.  Jaouimaa, F.Z., Dempsey, D., van Osch, S., Kinsella, S., Burke, K., Wyse, J. and Sweeney, J., (2022) [An age-structured SEIR model for COVID--19 incidence in Dublin, Ireland with framework for evaluating health intervention cost](https://doi.org/10.1371/journal.pone.0260632). *PLOS One*.
+10. Farrell CA, Coleman L, Kelly-Quinn M, Obst CG, Eigenraam M, Norton D, O\`Donoghue C, Kinsella S, Delargy O, Stout JC (2021) [Applying the System of Environmental Economic Accounting-Ecosystem Accounting (SEEA-EA) framework at catchment scale to develop ecosystem extent and condition accounts](https://doi.org/10.3897/oneeco.6.e65582), *One Ecosystem* 6: e65582.
+11. Raza, H., Zoega, G., Kinsella, S. (2019) [Exploring the effects of capital mobility on saving investment nexus: Evidence from Icelandic historical data](https://doi.org/10.1080/03585522.2018.1529615) 67:2, 117-131.
+12. Kinsella, S. (2019) [Visualising economic crises using accounting models](https://doi.org/10.1016/j.aos.2019.01.001). *Accounting, Organizations, and Society*, 75, 1-16.
+13. Raza, H., Zoega, G., Kinsella, S. (2018) [Capital inflows, crisis and recovery in small open economies](https://doi.org/10.1016/j.frl.2018.03.011), *Finance Research Letters*, 27(1), 273--282.
+14. Xiong, H., Payne, D. and Kinsella, S. (2018) [Identifying mechanisms underlying peer effects on multiplex networks](http://jasss.soc.surrey.ac.uk/21/4/6.html). *Journal of Artificial Societies and Social Simulation*, 21(4),6
+15. Raza, Hamid, Kinsella, Stephen, and Zoega, Gylfi (2018) [Asymmetries Exist in the Feldstein-Horioka Relationship](https://tandfonline.com/doi/abs/10.1080/09638199.2017.1418412), *The Journal of International Trade and Development*, 27(6), 667--684.
+16. Coyle, B., Kinsella, S. Lenehan, B., and Queally, J.D. (2018) [Cost utility analysis in orthopaedic trauma](https://www.sciencedirect.com/science/article/pii/S0020138318300299); what pays? *Injury*. 49(3), 575---584.
+17. Ahern, Elayne and Kinsella, Stephen and Semkovska, Maria (2018) [Clinical efficacy and economic evaluation of online cognitive behavioral therapy for major depressive disorder: a systematic review and meta-analysis](https://www.tandfonline.com/doi/abs/10.1080/14737167.2018.1407245?journalCode=ierp20), *Expert Review of Pharmacoeconomics & Outcomes Research*, 18(1), 25--41.
+18. Schasfoort, J., Godin, A., Bezemer, D., Caiani, A. & Kinsella, S.
+    (2017) [Monetary Policy Transmission in a Macroeconomic Agent-Based Model](https://www.worldscientific.com/doi/abs/10.1142/S0219525918500030), *Advances in Complex Systems*, 20(8), 1850003.
+19. Kinsella, Stephen, NicGabhann, Niamh, Ryan, Annmarie (2017) [Designing policy: collaborative policy development within the context of the European capital of culture bid process](http://www.tandfonline.com/doi/full/10.1080/09548963.2017.1342997), *Cultural Trends*, 26(3), 233--248.
+20. Schneider, Markus, Kinsella, Stephen and Godin, Antoine, (2017), [Redistribution in the Age of Austerity: Evidence from Europe, 2006-13](https://www.tandfonline.com/doi/full/10.1080/13504851.2016.1221030), *Applied Economics Letters*, 24(10), 672--676.
+21. Caiani, Alessandro and Godin, Antoine and Caverzasi, Eugenio and Gallegati, Mauro and Kinsella, Stephen and Stiglitz, Joseph E.,
+    (2017) [Corrigendum to "Agent based-stock flow consistent macroeconomics: Towards a benchmark model](https://www.sciencedirect.com/science/article/pii/S0165188917301422)"[Journal of Economic Dynamics and Control, 69 (2016) 375--408], *Journal of Economic Dynamics and Control* 82(4), p. 176.
+22. Schneider, Markus, Kinsella, Stephen and Godin, Antoine, (2016), [Changes in the Profile of Inequality across Europe since 2005: Austerity and Redistribution](http://dx.doi.org/10.4337/ejeep.2016.03.08), *European Journal of Economics and Economic Policies: Intervention*, 13(3), 354--374.
+23. Raza, Hamid, Fasianos, Apostolos, and Kinsella, Stephen, (2016), [Exploring the Link between Household Debt and Income Inequality: An Asymmetric Approach](http://www.tandfonline.com/eprint/pqjre8iq9QuudXcR32pX/full), *Applied Economics Letters*, 24, pages 404 - 409.
+24. Xiong, Hang, Kinsella, Stephen and Payne, Diane (2016), [The Self-Enforcing Agreement in Cooperative Teams: An Agent-Based Modelling Approach](http://link.springer.com/article/10.1186/s40294-016-0033-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue), Complex Adaptive Systems Modeling 4(1), 1 - 19.
+25. Raza, Hamid, Gudmundsson, Bjorn, Kinsella, Stephen, and Zoega, Gylfi, (2016), [Two thorns of experience: financialisation in Iceland and Ireland](http://www.tandfonline.com/doi/full/10.1080/02692171.2016.1208739), *International Review of Applied Economics*, 30(6), 771 - 789.
+26. Caiani, Alessandro and Godin, Antoine and Caverzasi, Eugenio and Gallegati, Mauro and Kinsella, Stephen and Stiglitz, Joseph E.,
+    (2016) [Agent Based-Stock Flow Consistent Macroeconomics: Towards a Benchmark Model](http://authors.elsevier.com/sd/article/S0165188915301020), *Journal of Economic Dynamics and Control*, Volume 69, 375-408.
+27. Xiong, Hang and Payne, Diane and Kinsella, Stephen, (2016) [Peer Effects in the Diffusion of Innovations: Theory and Simulation](http://www.sciencedirect.com/science/article/pii/S2214804316300313), *Journal of Behavioral and Experimental Economics*, Volume 63, August, 1--13.
+28. Furey, Emilia, O'Hora, Denis, McNamara, John, Kinsella, Stephen and Noone, Chris, (2016) [The roles of financial threat, social support, work stress and mental distress in dairy farmers' expectations of injury](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00126/abstract), *Frontiers of Public Health*, Vol. 4(1), 126-132.
+29. Fennel, D., O'Sullivan, D., Godin, A., Kinsella, S. (2016) [Is it possible to visualise any stock flow consistent model as a directed acyclic graph?](https://link.springer.com/article/10.1007/s10614-015-9521-8), *Computational Economics*, 48(2), 307-316.
+30. Kinsella, S & Khalil, S. (2015) [Bad banks choking good banks: A stock flow consistent analysis](http://www.ucd.ie/geary/static/publications/workingpapers/gearywp201126.pdf). European Journal of Economics and Economic Policies: Intervention, 12(1), 51-72.
+31. Kinsella, S. (2014) [Post-bailout Ireland as the Poster Child for Austerity](http://www.cesifo-group.de/DocDL/forum2-14-focus4.pdf), *CESifo Forum* 15 (2), 20-25.
+32. Kinsella, S. (2014) [What causes credit booms?](http://www.sciencedirect.com/science/article/pii/S0275531912000827) *Research in International Business and Finance*. Volume 30(1), 310--311.
+33. O'Connor, T., Kinsella, S., O'Sullivan, KPV, (2014), [Legal Protection of Investors, Corporate Governance, and Investable Premia in Emerging Markets](https://dl.dropboxusercontent.com/u/1484382/IREF14.pdf), *International Review of Economics and Finance.* 29(1), 426-439..
+34. Mullins, M., O'Regan, P, Kinsella, S, O'Regan, K. (2013) [Accounting for Intangibles, the issue of memory in the philosophy of Bergson](http://link.springer.com/article/10.5840%2Fpom201312318) *Philosophy of Management*, 12(3), 49-63.
+35. Godin, A. and Kinsella, S. (2013) [Production Functions at the Business End: The Case of the Fiscal Compact](http://www.gler.it/Gler_XVII_1/GLER_special_issue_vol_XVII_n_1_2013_complete.pdf), *Global & Local Economic Review* 17(1), 153-181.
+36. Kinsella. S (2013) [Was the Celtic Tiger Profit Led or Wage Led?](http://www.tandfonline.com/doi/full/10.1080/09538259.2013.837324#.Uo0hbGRU68s) *Review of Political Economy*, 25(4), pp. 572--585.
+37. Healy DA, Aziz A, Wong M, Clarke Moloney M, Coffey JC, Grace PA, Kinsella S, Walsh SR, (2013) [A descriptive cost analysis study of cases of right iliac fossa pain](http://www.ncbi.nlm.nih.gov/pubmed/23681149). *International Journal of Surgery*, 11(5), 524-528.
+38. Kinsella, S. (2013) [Modeling moments of crisis: The case of Ireland](https://dl.dropbox.com/u/1484382/Modeling%20Moments%20of%20Crisis.pdf), *Journal of Economic Issues*, 47(2), 561-567.
+39. Kinsella, S. and O'Sullivan, K.P.V (2013) [Financial and Regulatory Failure: The Case of Ireland](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1969887), *Journal of Banking Regulation*,14(1), 1--15.
+40. Kinsella, S. (2012) [Is Ireland really the role model for austerity?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1929545), *Cambridge Journal of Economics*, 36(1), 223--235.
+41. O'Sullivan, KPV and S. Kinsella (2012) [Chasing shadows: Europe prepares to regulate shadow banking](http://www.palgrave-journals.com/jbr/journal/v13/n3/full/jbr20128a.html), *Journal of Banking Regulation*, 13(1), 173-177.
+42. Kinsella, S. (2012) ['Blueprint for an Algorithmic Economics'](http://dx.doi.org/10.1142/S1793005712400066), *New Mathematics & Natural Computation*, 8(1), 101-111.
+43. Kinsella, S. and O'Donovan, C. (2011) ['An Experimental Analysis of Irish Electricity Prices'](http://www.sciencedirect.com/science/article/pii/S1040619011002600), *The Electricity Journal* 24(9), 96-105.
+44. O'Sullivan, K.P.V. and Kinsella, S. (2011) '[An institutional architecture for meta-risk regulation in Irish banking. Lessons from Anglo Irish Bank's Minsky moment](http://www.palgrave-journals.com/jbr/journal/v12/n4/full/jbr201113a.html)' *Journal of Banking Regulation*, 12, 342-355.
+45. Watts, M., Powys, L., O'Hora, C., Kinsella, S., Saunders, J., Reid, R., Finucane, P. (2011) '[Acute Medical Assessment Units: an efficient alternative to in-hospital acute medical care](http://imj.ie//ViewArticleDetails.aspx?ArticleID=6694)', *Irish Medical Journal*, 104(2), 47-49.
+46. O'Sullivan, K.P.V and Kinsella, S (2011), [Recapitalising European Banks](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1945977), *Financial Regulation International*, 14(8), 1-8 (lead article).
+47. Kinsella, S., Greiff, M., and Nell, E.J. (2011) ['Income Distribution in a Stock-Flow-Consistent Model with Education and Technological Change'](http://dl.dropbox.com/u/1484382/papers/EEJ_eej201031.pdf), *Eastern Economic Journal*, 37, 134-149.
+48. Kinsella, S., (2010) ['Pedagogical Approaches to Theories of Endogenous versus Exogenous Money'](http://inderscience.metapress.com/link.asp?id=h80p23998241hr72), *International Journal of Pluralism and Economics Education*, 1(3), 276-282.
+49. Young, N., Kinsella, S., Raio, C., Nelson, M., Chiricolo, M., Johnson, A., Malcolm, G., Drumheller, B., Sama, A., (2010), ['Economic Impact of Additional Radiographic studies after registered diagnostic medial sonographer-certified emergency physician performed identification of cholecystitis by ultrasound'](http://bit.ly/haCxQ9),*Journal of Emergency Medicine*, 38(5), 645-651.
+50. Kinsella, S., Young, N. (2009) ['Ultrasound guided central line placement versus standard landmark technique: some unpleasant arithmetic for the economics of medical innovation'](http://bit.ly/dK71VR), *Value in Health*, 12(1), 99-101.
+51. Kinsella, S. (2009), ['Many to One: Using the Mobile Phone to Interact with Large Classes'](http://bit.ly/fUC0mD). *British Journal of Educational Technology*, 40(5), 959-963.
+52. Kinsella, S. (2009) ['Preference falsification in teaching'](http://bit.ly/gSAJ5b),*Econ Journal Watch*, 60(3), 352-358.
+53. Kinsella, S. (2008) [Reconciling Newtonian and Simonian Concepts of Space](http://www.ingentaconnect.com/content/imp/chk/2008/00000015/00000002/art00005), *Cybernetics and Human Knowing*, 15(2), 69-74.
+## Books
+1.  Kinsella, S. (2011) [*QuickWin Economics*](http://bit.ly/jfk8uR). Dublin: Oaktree Press, 218pp.
+2.  Velupillai, K.V., Zamjbelli, S. and Kinsella, S. (2011) [*Computable Economics*](http://www.e-elgar.co.uk/bookentry_main.lasso?currency=US&id=2980), Cheltenham:Edward Elgar Press, 1080pp.
+3.  Kinsella, S. and Leddin, A. (2010) [*Understanding Ireland's Economic Crisis: Prospects for Recovery*](http://bit.ly/f8uu8T), Dublin: Blackhall Press, 590pp.
+4.  Kinsella, S. (2009) [*Ireland in 2050: How we will be Living*](http://www.libertiespress.com/Ireland_in_2050/49/), Dublin: Liberties Press, 218pp.
+## Book Chapters
+1.  Kinsella, S. (2023) 'Austerity Models and Their Impact on Markets: The Case of Ireland', in Moraes, Morven, McEachern, and O'Loughlin, eds. *Researching Poverty and Austerity*, Routledge Press.
+2.  NicGhabhann, N., Ryan, A. and Kinsella, S. (2022) 'Limerick City Stories: The European Capital of Culture Bid Process and Narratives of Place' in Smith, Osborn and Quinn, eds., *Festivals and the City: The Contested Geographies of Urban Events*, University of Westminster Press.
+3.  Kinsella, S. (2021) Brexit and the economy of Ireland, in Holmes and Simpson, eds., *Ireland and the European Union: Economic, political and social crises*, Manchester University Press.
+4.  Kinsella, S., and Regan, A. (2021) Political Economy of Taxation and Expenditure, in Hardiman and Farrell, eds., *Oxford Handbook of Irish Politics*, Oxford University Press, pages 445-460.
+5.  Kinsella, S. (2019) Entries for "Banking Culture, Credit Crunch, Credit Default Swaps, The Euro, Free Market, Liquidity Crisis", in Lucey, B., Maher, E. and O'Brien, E., eds. *Recalling the Celtic Tiger*, Oxford: Peter Lang Publishers, pages 25-27, 81-83, 83-85, 137-139 119-121, 189-191.
+6.  Kinsella, S. and Howe, J. (2018), [Global perspectives on wage stagnation](https://doi.org/10.20851/wages-crisis-03), in Stewart, Stanford and Hardy, eds., *The Wages Crisis in Australia: What it is and what to do about it*, Adelaide University Press, pages 41-57.
+7.  Kinsella, S. (2016) '[Economic and Fiscal Policy'](https://www.dropbox.com/s/8gr633a2a1im869/OUP_Chapter.pdf?dl=0), in O'Connell and Roche, eds. *Austerity's Poster Child? Ireland's Experience of the Great Recession and Recovery*, Oxford University Press, Chapter 3, pages 40-61.
+8.  Hynes, B., Kinsella, S. and Killian, S (2014) 'Young and Unlimited, Realising Talent: Kemmy Business School's programmes with local schools' In: Alan Murray (Ed.). [Inspirational Guide for the Implementation of PRME (UK and Ireland)](http://www.greenleaf-publishing.com/productdetail.kmod?productid=3762). London : Greenleaf.
+9.  Kinsella, S. and Ramsey, D (2013) Kinsella, "A Model of Partnership Formation with Friction and Multiple Criteria" in D. Alpern, R. Fokkink, L. Gasseinc (eds) [Search Theory: A Game Theoretic Perspective](http://www.amazon.com/Search-Theory-Game-Theoretic-Perspective/dp/1461468248), Springer, Chapter 17, pgs. 267--295.
+10. Kinsella, S. (2012), [A very Irish default](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1972886), in Lucey, B, Larkin, C, and Gurdgiev, C.(eds) '*What if Ireland Defaults?*, Dublin: Orpen Press, 87--99.
+11. Kinsella, S. and Khalil, S. (2011), '[Debt-deflation Traps Within Small Open Economies: A Stock-flow Consistent Perspective](http://dl.dropbox.com/u/1484382/cha11pdf.pdf)',in *Contributions in Stock-flow Consistent Modeling: Essays in Honor of Wynne Godley*, edited by Dimitri B. Papadimitriou and Gennaro Zezza. New York, NY: Palgrave Macmillan, pp. 235-265.
+12. Kinsella, S. and Lyons, R. 'A Return to Managing the Irish Economy' in: Ed Burke and Ronan Lyons, eds. (2011), [*Next Generation Ireland*](http://nextgenerationireland.com), Dublin: Blackhall Press, 65-90.
+13. Kinsella, S. (2009) 'Financial Fragility and Corporate Governance in Ireland', in Ronan Keane and Ailbhe O'Neal, (eds), [*Corporate Governance and Regulation: An Irish Perspective*](http://bit.ly/dZVZCl), Dublin: Roundhall Press, 147-170.
+## Book Reviews
+1.  Kinsella, S. (2009) ['The Black Swan'](http://www.sciencedirect.com/science/article/B6V8F-4W09GDP-1/2/01ab69d96dd46d303315f77e94935b4b) by Taleb, N. N., reviewed in Journal of Economic Behaviour and Organisation,71(2), 579-584.
+2.  Kinsella, S. (2007) ['The Divergent Dynamics of Economic Growth'](http://bit.ly/evaaeu) by Day, R. H., reviewed in *Review of Political Economy*, 19(3), 443-445.
+3.  Kinsella, S. (2007) ['Economists interviewing economists'](http://bit.ly/hf6zqG), review of 'Inside the Economist's Mind', by Samuelson, P.A., Barnett, W., reviewed in *Challenge*, 50(3), 107-112.
+4.  Kinsella, S. (2005) ['The (Mis) Behaviour of Markets'](http://bit.ly/eBCGsK), by Mandelbrot, B., Hudson, R., reviewed in *European Journal of Political Economy*. 21(3), 797-799.
+# Research Funding
+**2021**
+
+-   SMARTLAB. A four year, €640,000 project commencing January 2022, funded by SEAI.
+
+**2020**
+
+-   H2020 GOGREEN ROUTES. A four-year €10.48 million project commencing in September 2020 with 39 partners across 18 countries.
+-   SFI/EI/IDA COVID-19 Rapid Response Call for the Health and Economic Impacts of COVID-19 Control Measures, c. €42,000.
+
+**2019**
+
+-   EPA INCASE, Irish Natural Capital Accounting for Sustainable Environments, Total budget is €540,000.
+-   H2020 [+CityxChange](http://cityxchange.eu), Total budget is €21 million with Limerick recieving €6.5 million. I am UL lead.
+
+**2018**
+
+-   ESRC Network Plus grant for 'Rebuilding Macroeconomics', c. €5.2 million. (joint with many colleagues, led by [NIESR's Dr Angus Armstrong](http://www.niesr.ac.uk/media/press-release-innovative-new-network-will-revolutionise-how-we-study-economy-12846#.WQyLPlIZPMV))
+
+**2017**
+
+-   The Stock Margin Requirement in China: the Optimisation, Adjustment and the Impact on the Amount of Capital Raised' (Ref No. 16CJY079), National Philosophy and Social Science Foundation in China. c. 300,000 RMB. Joint with Hui Hong.
+-   Ireland funds, Small grant for Centre for Academic Achievement, c. 4,800 euros.
+-   Grant from Health Research Board for evidence review of stock flow models of workforce planning, c. 60,000 euros.
+
+**2016**
+
+-   H2020 PROTECT. The total budget is €7.5 million with UL receiving €180,000. Joint with Martin Mullins and Finbarr Murphy.
+
+**2015**
+
+-   Obtained MISTRA funding for the project 'Putting Financial Systems to Work for Sustainability' with colleagues from Stockholm School of Economics, Swedish Academy of Sciences, Harvard Business School, ICHEC Brussels Management School, LSE, Kingston University and ReFine Research. The total value of the award is 3.2 million euros (30,015,847 SEK).
+-   IU: Designing Culture, award from Limerick City and County Council, c. 30,000 euros.
+-   Disney award for Centre for Academic Achievement, c. 30,000 euros.
+
+**2014**
+
+-   SFI New Frontiers award for Centre for Academic Achievement, c.10,000. euros.
+
+**2013**
+
+-   Institute for New Economic Thinking, grant to study debt and demography in the European periphery, 2013-2016, c. \$470,000.
+-   Funding from Actions of the Government Policy on Architecture 2009-2015 for the IU Limerick: Designing Policies project, c. 30,000 euros (With Merritt Bucholz and Grainne Hassett).
+-   Institute for New Economic Thinking, grant to study stock flow consistent models and agent based models, 2013-2014, with Mauro Gallegati and Joseph Stiglitz c. \$140,000.
+-   Rannis, Icelandic Research Council, for a stock flow consistent model of the Icelandic economy, 2013-2015, c.120,000. euros.
+-   FP7 Project E-COMPARED, 2013-2016, grant to model cost effectiveness of depression screening tools (with Pepijn Van der Ven). c. 366,000 euros.
+
+**2012**
+
+-   Irish Research Council New Foundations Award, 2012-2013, c. 7,000 euros.
+
+**2011**
+
+-   Grants from the Institute for New Economic Thinking, [INET](http://ineteconomics.org/grants/spring-2011), for Estimation of Stock flow Consistent models, c. \$160,000 for 2011-2013.
+
+**2010**
+
+-   Seed funding grant from the University of Limerick, 2010, c. 2000 euros.
+# Teaching
+All of my course materials from 2004 to today are available at my [teaching page](http://www.stephenkinsella.net/teaching/).
+
+I make all materials freely available and podcast my lectures on youtube and vimeo when technology allows. Below is a list of what I usually teach at UL and at what level.
+
+| Undergraduate |                                     | Size |
+|---------------|-------------------------------------|:----:|
+|               | Economics for Business              | 400+ |
+|               | Financial Economics                 | 150+ |
+|               | Economic Analysis                   | 150+ |
+|               | Applied Economic Analysis           | 100+ |
+|               | Economy of Europe                   | 50+  |
+|               | International Political Economy     | 500+ |
+| Postgraduate  |                                     |      |
+|               | International monetary economics    | 20+  |
+|               | Macroeconomic Theory                | 10+  |
+|               | MBA International Political Economy | 50+  |
+|               | Mathematics for Economics           | 20+  |
+|               | Philosophy of Social Science        |  5+  |
+|               | Governing Challenges: Austerity     | 10+  |
+|               | Managing Public Finances            | 50+  |
+## Post-Doctoral Collaboration
+It is traditional to say you 'supervise' post doctoral fellows. In practice, you collaborate with them, learn from them, and they mentor you as much as you mentor them. The links on individual names take you to their SSRN pages.
+
+1.  [G. Tiou Tagba Aliti](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1791048) (2011-2013)
+2.  [Antoine Godin](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1764542) (2013-2015)
+3.  [Weiou Wu](https://scholar.google.com/citations?user=Bve4QvQAAAAJ&hl=en) (2013-2015)
+4.  [Alessandro Caiani](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2452231) (2013-2014)
+5.  [Eugenio Caverzazi](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1954736) (2013-2014)
+6.  [Helena Fitzgerald](https://www.linkedin.com/in/helena-fitzgerald-15643822/) (2019-2023)
+7.  [Armin Shams](https://www.linkedin.com/in/arminshams/) (2019-2021)
+8.  [Daniel Norton](https://www.researchgate.net/profile/Daniel_Norton7) (2020-2021)
+9.  [Suzanne Van Osch](https://www.researchgate.net/profile/Suzanne_Van_Osch) (2020-2021)
+10. [Paula Cullen](https://www.researchgate.net/profile/Paula-Cullen-2) (2022-2022)
+11. [Madeleine Lyes](https://www.linkedin.com/in/madeleine-lyes-b2934241/?originalSubdomain=ie) (2022-)
+12. [Miguel Angel Trejo-Rangel](https://www.researchgate.net/profile/Miguel-Trejo-Rangel) (2022-2023)
+## PhD Advising
+1.  [Saed Khalil](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=481125) (University of Trento, December 2010, Palestinian Monetary Authority).
+2.  [Dominic Trepel](https://scholar.google.com/citations?user=JO_rb14AAAAJ&hl=en), (UL, November 2011, Associate Professor at Trinity College, Dublin.)
+3.  [Gerald O'Nolan](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1728499) (UL, January 2014, currently at Irish Health Research Board.)
+4.  [Vincent O'Sullivan](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1390115) (UL, January 2014, currently at the European Commission.)
+5.  [Hang Xiong](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2138868) (UCD, March 2016, currently at ETH Zurich.)
+6.  [Hamid Raza](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2183923)
+    (UL, October 2016, currently at Aalborg University)
+7.  [Apostolos Fasainos](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2556574) (UL, February 2018, Currently at Brunel University, UK)
+8.  Lisa Devery (UL, March 2018, Currently at Digital River, Ireland)
+9.  [Puneet Bhasin](https://watson.brown.edu/gpd/portfolio/puneet-bhasin/) (Brown University, August 2018, Current at Brown University)
+10. [Elayne Ahern](https://www.researchgate.net/profile/Elayne_Ahern) (UL, October 2020, Currently at University of Limerick)
+11. Michael McMahon, (UL, January 2024, Currently at DSA Economics)
+12. Antonina Stankova (UL, December 2025, Currently at University of Galway)
+13. Gulfem Cevheribucak (UL, January 2026, Currently at University of Limerick)
+
+*In progress*
+
+1.  Belinda Simiyu (UL)
+
+-   I've also advised dozens of undergraduate final year projects and MSc. theses.
+## External Examiner (Programmes & PhDs)
+1.  External examiner at University of Aalborg, Denmark, Thomas Fredholm, PhD defence on 12 April, 2010.
+2.  External Examiner at Institute of Technology, Carlow, for the BA (Honours) in Economic and Social Studies, 2011-2013.
+3.  External examiner at University of Trento, Italy, Dharmaraj Navaneetha Krishnan, PhD defense on 19 October, 2011.
+4.  Programme review committee, new BA in Economics and Finance, National College of Ireland, 2012.
+5.  External examiner, School of Economic and Business Sciences, Wits University, South Africa, 2012-2015.
+6.  External examiner, School of Economics, University of Leicester. Neil Lancastle, PhD defense 10 December 2014.
+7.  External examiner, School of Economics, University College Dublin, Martin O'Brien, PhD defense 24 March 2017.
+8.  External examiner, University of Trento, Italy, Samuele Bibi, PhD defense, 30/12/2018.
+9.  External examiner, Kings College, London, UK, Luis Goncalves De Faria, PhD defense, 8/1/2019.
+10. External examiner, NUI Galway, all economics undergraduate and postgraduate programmes, 2019-2023.
+11. External examiner, University of Sydney, Australia, Dennis Feher, PhD defense, June 13th, 2019.
+12. External examiner, Aalborg University, Denmark, Rob Smith, PhD defense, July 1st, 2020.
+13. External examiner, Trinity College Dublin, Frank Browne, PhD defense, September 1st, 2020.
+14. External examiner, Bielfeld University, Severin Reissl, PhD defense, December 12th, 2020.
+15. External examiner, Newcastle University, Australia, George Pantelopoulos, November 30, 2021.
+# Service to the profession
+## Professional Associations
+-   Honourary Member of: [Algorithmic Social Sciences Unit](http://www.assru.economia.unitn.it/People.html), Governing Council Member, Irish Economic Association, Ordinary Member, American Economic Association, Ordinary Member, The Econometric Society
+## Editorial Duties
+-   Associate editor, [The Economic and Social Review](https://www.esr.ie/index), 2019 - 2022.
+-   Associate editor, [Research in International Business and Finance.](http://www.journals.elsevier.com/research-in-international-business-and-finance/), 2016-2019.
+-   Associate editor, [Financial Regulation International](http://www.informaprofessional.com/publications/newsletter/financial_regulation_international), 2015-2019.
+## Refereeing and Reviewing (since 2009)
+-   Climate Policy (1), Review of Political Economy (4); Value in Health (4); New School Economic Review (8); McGraw Hill Education (3 books); Elsevier Press (2 books); European Journal of Internal Medicine (1); Journal of Economic Behavior and Organisation (4); International Journal of Pluralism in Economics Education (2), Journal of Economic Surveys (2), Economic Bulletin (1), Economic Modelling (3), MIT Press (4), Health Economics, Policy, and Law (1), Grant reviewing for Institute for New Economic Thinking, (10 grants reviewed in 2011, 10 grants in 2012, 10 grants in 2013). Oxford University Press (2), Journal of Banking Regulation (4), Economics: The Open-Access, Open-Assessment E-Journal (2); Cambridge Journal of Economics (4), Journal of Economic Issues (6), Journal of Banking and Finance (3), Economic and Social Review (4), International Journal of Financial Analysis (3), Routledge (1 book), Journal of Economic Dynamics and Control (1), IZA World of Labor (1), Metroeconomica (3).
+## Workshops & Courses (Organised)
+1.  Program Coordinator, NUI Galway workshop in Computable and Behavioural Economics. Directed by Prof. K. Velupillai, held at the Glenlo Abbey Hotel, March 21-16, 2005.
+2.  Program Coordinator & Guest Lecturer, NUI Galway Tutorial workshop in Computable Endogenous Growth Theory, Directed by Prof. K. Velupillai, held at NUI, Galway, November 25, 2005.
+3.  Program Committee Member, New Ideas Conference in Development, New School for Social Research, New York, April 20, 2006. A Workshop bringing senior policy makers together to discuss new directions in development economics.
+4.  Program Committee Member Mechanisms of Inequality: Theory and Empirics, New School for Social Research, New York, November 20,
+    2006.
+5.  Course Director Health Economics for Health Care Professionals, July 10, 11, 2007, University of Limerick, Ireland.
+6.  Steering Committee Member, FACiLiTATE PBL Summer School, June 23-25,
+    2008.
+7.  Committee Member, Bizcamp Limerick, March 21, 2009.
+8.  Chair, Irish Society for New Economists conference, Friday October 2, 2009
+9.  Chair, Bizcamp Limerick, May 08, 2010.
+10. Chair, [New Directions in Modelling International Finance](http://www.elsevierscitech.com/cfp/RIBAF-Conference_Kinsella.pdf), Limerick, 24-25 November 2011.
+11. Co-organizer, [Conference on Irish Economic Policy](http://www.ucd.ie/geary/newsevents/ieconf/), Croke Park, IFSC, January 27th, 2012.(with Liam Delaney and Colm Harmon).
+12. Co-organizer, INET Workshop on integrating Agent-Based and Stock Flow Consistent Macroeconomic Models, CIGI Institute, Canada, November 16, 2012. (with Joseph Stiglitz and Mauro Gallegati).
+13. Co-organiser, Irish Economy conference, Institute of Bankers, February 1st, 2013.(with Liam Delaney and Frances Ruane).
+14. Co-organiser, Building a common language for Stock Flow Consistent Macro Models, August 26-27, University of Limerick (with Antoine Godin).
+15. Co-organiser, Dublin Economic Workshop, University of Limerick, October 18-20, 2013.
+16. Sponsor, Winter School on Stock flow consistent agent based models, University of Limerick January 29-February 7th 2014.
+17. Co-organiser, Irish Economy conference, Institute of Bankers, February 1st, 2014.(with Liam Delaney, Phillip O'Connell and Frances Ruane).
+18. Programme chair, Irish Economic Association Annual conference, 8-9 May 2014.
+19. Organiser, New Approaches to the study of Austerity, May 30, 2014.
+20. Co-organiser, Irish Economy conference: Learning from Crisis, Institute of Bankers, February 25th, 2015.(with Liam Delaney, Phillip O'Connell and Frances Ruane).
+21. Co-organiser, Ireland's COVID19 Crisis Response: Perspectives from Social Science. [All talks available here](http://publicpolicy.ie/papers/irelands-covid19-crisis-response-perspectives-from-social-science-videos-and-slides-from-all-17-panels/).
+# Impact/Engagement
+## Boards, Advising, Advocacy
+-   Economic Advisor to An Taoiseach, Simon Harris, July 2024 -
+-   Member, AI Advisory Council of Ireland, Jan 2024 - (on leave while in government).
+-   Chair, Irish Government Economic Evaluation Service (IGEES) External Advisory Board, 2016-2024.
+-   Member, Parliamentary Budget Office External Advisory Board, 2020 - 2024.
+-   Member, Research Subgroup of Expert Advisory Group, NPHET, 2020 - 2021.
+-   Board member (Non Executive Director), [Higher Education Authority](http://hea.ie), 2014-2017. Deputy Chair of Higher Education Authority, December 2016-January 2017.
+-   Academic advisory board member, the [Centre for Talented Youth in Ireland.](http://dcu.ie/ctyi/), 2010-2017.
+-   Consultant, Bank of England, 2014-2017.
+-   Chair, [Undergraduate Awards](http://www.undergraduateawards.com), Economics, 2016.
+-   Board Member, Benefacts, 2020- 2022.
+-   Board Member, Ormston House, 2020- 2023.
+-   OECD, Independent Expert for [Review of Irish Fiscal Advisory Council](https://www.fiscalcouncil.ie/wp-content/uploads/2021/02/oecd-review-of-the-irish-fiscal-advisory-council.pdf), 2020-2021.
+## Parliamentary Submissions, Policy Pieces, and Oireachtas Reports
+1.  Kinsella, S. (2011) [Rethinking Household Debt in Ireland](http://www.scribd.com/doc/65497135/Resolving-the-Mortgage-Crisis-Submission-to-the-expert-group-on-a-mortgage-arrears-resolution-process). Submission to expert group on mortgage arrears in Ireland with Stephen Donnelly, TD, September 2011.
+2.  Kinsella, S. (2012) [Report on Promissory Notes](http://dl.dropbox.com/u/1484382/OireachtasFeb15V08.pdf). Evidence before Joint Oireachtas Committee on Finance and Public Expenditure Reform, Feb 15, 2012.
+3.  Kinsella, S. (2012) [Report of Seanad Debate on the Treaty on Stability, Coordination and Governance in the Economic and Monetary Union](http://dl.dropbox.com/u/1484382/seanadreport.pdf), March 12,
+    2012.
+4.  Kinsella, S. (2015) [Notes on Quantitative Easing. Evidence before Joint Oireachtas Committee on Finance and Public Expenditure Reform](https://www.dropbox.com/s/hkghlw25ppmy8cm/Kinsella_Oireachtas_QE_Remarks20150708.pdf?dl=0), July 8th, 2015.
+5.  Kinsella, S (2015) Report from the National Economic Dialogue, 17 July 2015.
+6.  Kinsella, S. (2015) [Footsteps for the Future](http://www.earlychildhoodireland.ie/launch-of-footsteps-for-the-future/), report commissioned by Early Childhood Ireland, launched July 15th,
+    2015.
+7.  Kinsella, S. (2016) [Report from the National Economic Dialogue](http://www.budget.gov.ie/Budgets/2017/Documents/NED/NED-2016-Chairmans-report.pdf), 27-28 June, 2016, pages 11-15.
+8.  Kinsella, S., Kiersey, R. (2016) [Health workforce planning models, tools and processes in five countries](http://www.hrb.ie/publications/hrb-publication/publications//718/), Health Research Board Report, published 14 September 2016. Presented findings to the Oireachtas Committee on the Future of Healthcare on 14 September.
+9.  Kinsella, S. (2019) [Enhancing Ireland's Capacity for Analysis and Action on Fiscal Policy](https://data.oireachtas.ie/ie/oireachtas/committee/dail/32/committee_on_budgetary_oversight/submissions/2019/2019-06-25_presentation-dr-stephen-kinsella-associate-professor-of-economics-university-of-limerick_en.pdf), Presented findings to the Oireachtas Committee on Budget Oversight, 22 June 2019.
+10. Kinsella, S. (2020) [Notes on Ireland's COVID Response. Presented to the Special Oireachtas Committee on COVID Response](https://www.oireachtas.ie/en/debates/debate/special_committee_on_covid-19_response/2020-06-16/4/), 16th June 2020. [Notes](https://docs.google.com/document/d/10XfQSr5esHmK9hqkGPAvqpx-ZCdzyRRw31LkaX7q2QI/edit?usp=sharing)
+11. Kinsella, S. (2021), Presented to Oireachtas Committee on Budget Oversight in private session, 14 January, 2021.
+12. Kinsella, S. (2023), [Notes on the Allocation of a Primary Surplus](https://docs.google.com/document/d/1bw0_5GrvnG3Z1po_C4xGVgLsEUE1tEPi6jcL1zMkLtM/edit?usp=sharing), Presented to Oireachtas Committee on Budget Oversight, Mart 24, 2023
+## Exhibitions, Documentaries and Policy Workshops
+1.  [Intelligence Unit: Designing Policies](https://www.facebook.com/iuLimerick), Limerick City Art Gallery, 19th July - August 2nd 2013. (The Intelligence Unit is a collaboration between the School of Architecture and the Kemmy Business School involving an 8-week programme where graduates and faculty bring their collective ideas and experiences to consider future directions for Limerick. This work was undertaken in the context of the recent publication of the Limerick 2030 plan.)
+2.  [Health Futures Lab](http://www.healthfutureslab.org) Advisory board member of the health futures lab. A University of Limerick Think Tank convened for a five week period between June 9th and July 9th
+    2014. Our goal was to propose a bold future vision for Limerick City to offer a detailed roadmap on how we might get there.
+3.  [IU: 2015 Culture Lab](http://issuu.com/culturelab1/docs/booklet1). In collaboration with the Limerick 2020 bid for European Capital of Culture, we set up an interdisciplinary research station at Ormston House in Limerick city, to find new ways to think about Limerick and its culture. As in previous years, the Intelligence Unit (IU) is based on design thinking as a methodology, and brings a group of researchers and students from different disciplines together to create valuable research and insights into the dynamics of culture in Limerick and its region to form part of the overall Limerick 2020 bid proposal. I led this project with my colleagues Drs Grainne Hassett (SAUL), Annmarie Ryan (KBS) and Niamh NicGhabhann (Irish World Academy of Music and Dance).
+4.  [We Couldn't Understand the Peace](http://www.rte.ie/radio1/doconone/2016/0825/811859-we-couldnt-understand-the-peace-glenstal-abbey-a/). The sight of refugees in Europe from 2015 recalled for some people that we had a refugee crisis in Ireland within living memory. In the first few summers of The Troubles in Northern Ireland, 1969-1972, refugees from Catholic areas came over the border to escape the tension surrounding the Orange celebrations of The Twelfth. The numbers peaked at 10,000 in 1972. But, by 1972, the refugees were no longer being housed by the Army in camps, instead they were being put up by local authorities and educational institutions. One such institution was Glenstal Abbey - a Benedictine monastery in 500 acres of farmland in East Limerick. The monastery also houses a boys' private secondary school. On July 11th, 1972, the monks received a call telling them that 172 women and children were on the way and to get ready. The monks had the assistance of the local Civil Defence. Mostly women and children arrived because the men stayed behind to protect their homes from Protestant mobs. First Broadcast on RTE Radio 1, Saturday 3rd September at 1pm.
