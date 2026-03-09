@@ -28,8 +28,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          install.packages(c("rmarkdown", "remotes"), repos = "https://cloud.r-project.org")
-          remotes::install_github("svmiller/stevetemplates")
+          install.packages(c("rmarkdown", "stevetemplates"), repos = "https://cloud.r-project.org")
         shell: Rscript {0}
 
       - name: Install LaTeX packages
