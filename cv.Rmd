@@ -3,7 +3,7 @@ output: stevetemplates::cv
 geometry: margin=1in
 title: "Curriculum Vitae"
 author: Stephen Kinsella
-jobtitle: "Professor of Economics"
+jobtitle: "Full Professor of Economics"
 address: "Department of Economics, University of Limerick"
 fontawesome: yes
 email: stephen.kinsella@ul.ie
