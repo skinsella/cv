@@ -17,6 +17,9 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
+header-includes:
+  - \providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+  - \newcounter{none}
 ---
 
 # Education
