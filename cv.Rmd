@@ -32,7 +32,7 @@ header-includes:
 
 # Employment Experience
 
--   Economic Advisor to An Taoiseach & An Tánaiste, 07/2024 -
+-   Economic Advisor to An Tánaiste and the Minister for Finance, 07/2024 -
 -   University of Limerick, Full Professor of Economics, 01/2022-
     -   Professor, 06/2018 - 12/2021,
     -   Associate Professor A, 06/2013 - 05/2018,
