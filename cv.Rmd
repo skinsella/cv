@@ -46,7 +46,7 @@ header-includes:
 # Academic Leadership
 
 -   University of Limerick, Head of Department, Economics, 01/2022 - 09/2026.
--   University of Limerick, Co-Director, Immersive Software Engineering, 01/2019- present.
+-   University of Limerick, Co-Director, Immersive Software Engineering, 01/2019-09/2026.
 
 # Visiting Positions/Sabbaticals
 -   Melbourne School of Government, University of Melbourne, Australia, Visiting Research Fellow, 09/2017-10/2018.
@@ -57,13 +57,10 @@ header-includes:
 -   Smurfit Business Journalist of the Year 2018: Winner as Economic Commentator and Business Analyst.
 -   Miriam Hederman O'Brien Prize for Fiscal Policy, 2017.
 -   Smurfit Business Journalist of the Year 2016: Winner as Economic Commentator and Business Analyst.
--   UL Excellence in Research Award, 2015. 5,000 euros.
+-   UL Excellence in Research Award, 2015.
 -   [JCI](http://www.irishexaminer.com/ireland/young-guns-recognised-for-their-achievements-157692.html) Outstanding Young Person of the Year Award for academic achievement,
     2011.
 -   UL excellence in teaching award, shortlisted, 2010.
--   Shannon Consortium regional excellence in teaching award, shortlisted, 2010.
--   [Herbert Simon Lectures](http://www.aiecon.org/herbertsimon/series19/schedule.htm), National Chengchi University, Taiwan, March 2010.
--   Honourary member of the Philosophical society, Trinity College Dublin, 2010-
 -   University Fellowship, The New School for Social Research, 01/2005-12/2007.
 -   John F. Kennedy Scholar, 01/2005 - 06/2006.
 -   Digital Enterprise Research Institute Doctoral Fellowship, 11/2003-06/2006.
